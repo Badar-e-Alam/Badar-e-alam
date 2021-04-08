@@ -1,4 +1,4 @@
-Hi, I’m @Badar-e-alam
+👋 Hi, I’m @Badar-e-alam
 👀 I’m interested in Artificial intelligence especially in image cuz its talk a lot
 🌱 I’m currently working as a machine learning engineer
 💞️ I’m looking to collaborate on real-world problems.
