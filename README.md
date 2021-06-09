@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Badar-e-alam
-- 👀 I’m interested in Artificial intelligence especially in images cuz they talk a lot
+- 👀 I’m interested in Artificial intelligence and Software development especially in images cuz they talk a lot
 - 🌱 I’m currently working as a machine learning engineer
 - 💞️ I’m looking to collaborate on real-world problems.
 - 📫 How to reach me alambadar001@gmail.com
