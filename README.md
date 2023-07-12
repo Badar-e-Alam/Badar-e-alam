@@ -1,4 +1,4 @@
-⭐:**Welcome to my GitHub profile!**
+⭐**Welcome to my GitHub profile!**
 
 I am a passionate and experienced 🧠**Machine Learning Developer** with over 3 years of experience in developing and implementing machine learning models. My expertise lies in leveraging data-driven approaches to solve complex problems and extract valuable insights.
 
