@@ -14,4 +14,3 @@ I am enthusiastic about collaborating on innovative projects, tackling challengi
 
 Let's connect and create intelligent solutions together!
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/badaralam/)https://www.linkedin.com/in/badaralam/
