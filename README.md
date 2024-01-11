@@ -1,6 +1,6 @@
 ⭐**Welcome to my GitHub profile!**
 
-I am a passionate and experienced 🧠**Machine Learning Developer** with over 3 years of experience in developing and implementing machine learning models. My expertise lies in leveraging data-driven approaches to solve complex problems and extract valuable insights.
+I am a passionate and experienced 🧠**Machine Learning Developer** with multiple years of experience in developing and implementing machine learning models. My expertise lies in leveraging data-driven approaches to solve complex problems and extract valuable insights.
 
 With a solid foundation in mathematics, and computer science, and a 📖Master's degree in Artificial Intelligence from FAU Erlangen-Nuremberg, I possess a deep understanding of various machine-learning algorithms and techniques. I have worked on multiple projects in the domains of computer vision and natural language processing.
 
